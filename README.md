@@ -6,4 +6,4 @@ Integrantes do grupo: <br>
 
 Giancarlo <br>
 Gustavo Laur Pisanello - rm:556603 - responsável pela branch "new_features" <br>
-Leonardo
+Leonardo de Farias Silva - rm:555211 - responsável pela branch "Bugfix" <br>
