@@ -2,8 +2,8 @@
 Repositório que servirá como 1º Checkpoint da disciplina de WebDev da FIAP
 
 ------ // ------ <br>
-Integrantes do grupo:
+Integrantes do grupo: <br>
 
-Giancarlo
-Gustavo Laur Pisanello - rm:556603 - responsável pela branch "new_features"
+Giancarlo <br>
+Gustavo Laur Pisanello - rm:556603 - responsável pela branch "new_features" <br>
 Leonardo
